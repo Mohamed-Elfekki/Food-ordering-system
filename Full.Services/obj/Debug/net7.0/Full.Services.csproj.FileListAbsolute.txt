@@ -1,0 +1,17 @@
+D:\VisualStudioProjects\Full\Full.Services\bin\Debug\net7.0\Full.Services.deps.json
+D:\VisualStudioProjects\Full\Full.Services\bin\Debug\net7.0\Full.Services.runtimeconfig.json
+D:\VisualStudioProjects\Full\Full.Services\bin\Debug\net7.0\Full.Services.dll
+D:\VisualStudioProjects\Full\Full.Services\bin\Debug\net7.0\Full.Services.pdb
+D:\VisualStudioProjects\Full\Full.Services\bin\Debug\net7.0\Full.BLL.dll
+D:\VisualStudioProjects\Full\Full.Services\bin\Debug\net7.0\Full.BLL.pdb
+D:\VisualStudioProjects\Full\Full.Services\obj\Debug\net7.0\Full.Services.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\Full\Full.Services\obj\Debug\net7.0\Full.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\Full\Full.Services\obj\Debug\net7.0\Full.Services.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Full\Full.Services\obj\Debug\net7.0\Full.Services.AssemblyInfo.cs
+D:\VisualStudioProjects\Full\Full.Services\obj\Debug\net7.0\Full.Services.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Full\Full.Services\obj\Debug\net7.0\Full.Services.csproj.CopyComplete
+D:\VisualStudioProjects\Full\Full.Services\obj\Debug\net7.0\Full.Services.dll
+D:\VisualStudioProjects\Full\Full.Services\obj\Debug\net7.0\refint\Full.Services.dll
+D:\VisualStudioProjects\Full\Full.Services\obj\Debug\net7.0\Full.Services.pdb
+D:\VisualStudioProjects\Full\Full.Services\obj\Debug\net7.0\Full.Services.genruntimeconfig.cache
+D:\VisualStudioProjects\Full\Full.Services\obj\Debug\net7.0\ref\Full.Services.dll

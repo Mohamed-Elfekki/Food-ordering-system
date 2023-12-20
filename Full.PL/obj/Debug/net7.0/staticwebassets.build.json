@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "/6pPfHwP7xh1Luy/7u0Td5wCpetzBzH9tFF8Th3pLDM=",
+  "Source": "Full.PL",
+  "BasePath": "_content/Full.PL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Full.PL\\wwwroot",
+      "Source": "Full.PL",
+      "ContentRoot": "D:\\VisualStudioProjects\\Full\\Full.PL\\wwwroot\\",
+      "BasePath": "_content/Full.PL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\VisualStudioProjects\\Full\\Full.PL\\wwwroot\\Uploads\\Foods\\Clean Architectur Onion View.png",
+      "SourceId": "Full.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VisualStudioProjects\\Full\\Full.PL\\wwwroot\\",
+      "BasePath": "_content/Full.PL",
+      "RelativePath": "Uploads/Foods/Clean Architectur Onion View.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Foods\\Clean Architectur Onion View.png"
+    }
+  ]
+}

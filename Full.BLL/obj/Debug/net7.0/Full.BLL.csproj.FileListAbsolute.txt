@@ -1,0 +1,14 @@
+D:\VisualStudioProjects\Full\Full.BLL\bin\Debug\net7.0\Full.BLL.deps.json
+D:\VisualStudioProjects\Full\Full.BLL\bin\Debug\net7.0\Full.BLL.runtimeconfig.json
+D:\VisualStudioProjects\Full\Full.BLL\bin\Debug\net7.0\Full.BLL.dll
+D:\VisualStudioProjects\Full\Full.BLL\bin\Debug\net7.0\Full.BLL.pdb
+D:\VisualStudioProjects\Full\Full.BLL\obj\Debug\net7.0\Full.BLL.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\Full\Full.BLL\obj\Debug\net7.0\Full.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\Full\Full.BLL\obj\Debug\net7.0\Full.BLL.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Full\Full.BLL\obj\Debug\net7.0\Full.BLL.AssemblyInfo.cs
+D:\VisualStudioProjects\Full\Full.BLL\obj\Debug\net7.0\Full.BLL.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Full\Full.BLL\obj\Debug\net7.0\Full.BLL.dll
+D:\VisualStudioProjects\Full\Full.BLL\obj\Debug\net7.0\refint\Full.BLL.dll
+D:\VisualStudioProjects\Full\Full.BLL\obj\Debug\net7.0\Full.BLL.pdb
+D:\VisualStudioProjects\Full\Full.BLL\obj\Debug\net7.0\Full.BLL.genruntimeconfig.cache
+D:\VisualStudioProjects\Full\Full.BLL\obj\Debug\net7.0\ref\Full.BLL.dll

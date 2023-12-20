@@ -1,0 +1,17 @@
+D:\VisualStudioProjects\Full\Full.DAL\bin\Debug\net7.0\Full.DAL.deps.json
+D:\VisualStudioProjects\Full\Full.DAL\bin\Debug\net7.0\Full.DAL.runtimeconfig.json
+D:\VisualStudioProjects\Full\Full.DAL\bin\Debug\net7.0\Full.DAL.dll
+D:\VisualStudioProjects\Full\Full.DAL\bin\Debug\net7.0\Full.DAL.pdb
+D:\VisualStudioProjects\Full\Full.DAL\bin\Debug\net7.0\Full.BLL.dll
+D:\VisualStudioProjects\Full\Full.DAL\bin\Debug\net7.0\Full.BLL.pdb
+D:\VisualStudioProjects\Full\Full.DAL\obj\Debug\net7.0\Full.DAL.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\Full\Full.DAL\obj\Debug\net7.0\Full.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\Full\Full.DAL\obj\Debug\net7.0\Full.DAL.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Full\Full.DAL\obj\Debug\net7.0\Full.DAL.AssemblyInfo.cs
+D:\VisualStudioProjects\Full\Full.DAL\obj\Debug\net7.0\Full.DAL.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Full\Full.DAL\obj\Debug\net7.0\Full.DAL.csproj.CopyComplete
+D:\VisualStudioProjects\Full\Full.DAL\obj\Debug\net7.0\Full.DAL.dll
+D:\VisualStudioProjects\Full\Full.DAL\obj\Debug\net7.0\refint\Full.DAL.dll
+D:\VisualStudioProjects\Full\Full.DAL\obj\Debug\net7.0\Full.DAL.pdb
+D:\VisualStudioProjects\Full\Full.DAL\obj\Debug\net7.0\Full.DAL.genruntimeconfig.cache
+D:\VisualStudioProjects\Full\Full.DAL\obj\Debug\net7.0\ref\Full.DAL.dll
